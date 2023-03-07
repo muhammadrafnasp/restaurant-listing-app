@@ -17,5 +17,9 @@
    Route - for setup path for a component
    Routes - for holding all route path targ
    Router - Holding Routes 
-14. useParams (hooks) - Returns an object of key/value pairs of the dynamic params from the current URL that were matched by the route path.   
+14. useParams (hooks) - Returns an object of key/value pairs of the dynamic params from the current URL that were matched by the route path.  
+15. create a component - Restop - for Displaying the opening time
+16. create a component - Restreview - for Displaying the reviews and comments
+
+
 
